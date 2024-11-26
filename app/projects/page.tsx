@@ -8,28 +8,28 @@ import { ProjectDetailsModal } from "@/components/project-details-modal"
 const projects = [
   {
     id: 1,
-    title: "Projects 1",
+    title: "Project 1",
     technologies: "React Native, Expo, Clerk, Firebase, Tailwind",
     imageUrl: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=800&dpr=2&q=80",
-    description: "BudgetWise is a comprehensive mobile application designed to help users manage their finances effectively. With intuitive interfaces and real-time updates, it allows users to track expenses, set budgets, and visualize spending patterns. The app integrates securely with bank accounts and credit cards, providing a holistic view of one's financial health."
+    description: "There is a long-established fact that the readable content of a page will distract the reader from focusing on the appearance of the text or the arrangement of paragraphs on the page they are reading.",
   },
   {
     id: 2,
-    title: "Projects 2",
+    title: "Project 2",
     technologies: "React, Next.js, ContentFull, Motion, Tailwind",
     imageUrl: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=800&dpr=2&q=80",
     description: "There is a long-established fact that the readable content of a page will distract the reader from focusing on the appearance of the text or the arrangement of paragraphs on the page they are reading.",
   },
   {
     id: 3,
-    title: "Projects 3",
+    title: "Project 3",
     technologies: "React, Next.js, ContentFull, Motion, Tailwind",
     imageUrl: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=800&dpr=2&q=80",
     description: "There is a long-established fact that the readable content of a page will distract the reader from focusing on the appearance of the text or the arrangement of paragraphs on the page they are reading.",
   },
   {
     id: 4,
-    title: "Projects 4",
+    title: "Project 4",
     technologies: "React, Next.js, ContentFull, Motion, Tailwind",
     imageUrl: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=800&dpr=2&q=80",
     description: "There is a long-established fact that the readable content of a page will distract the reader from focusing on the appearance of the text or the arrangement of paragraphs on the page they are reading.",

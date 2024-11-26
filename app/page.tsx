@@ -104,7 +104,7 @@ export default function Home() {
               <p className="text-sm text-slate-500">
                 I am Ali Darwesh, a passionate front-end developer specializing in web technologies and digital experience design. I work on creating interactive and user-friendly interfaces using the latest tools and technologies like React and Next.js.
               </p>
-              <h3 className="font-bold text-lg mt-4">Technologies I've Been Working With:</h3>
+              <h3 className="font-bold text-lg mt-4">Technologies I&apos;ve Been Working With:</h3>
               <ul className="list-disc pl-5 text-sm text-slate-500 mt-2">
                 <li>JavaScript</li>
                 <li>TypeScript</li>

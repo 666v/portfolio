@@ -52,8 +52,8 @@ Follow these steps to set up and run the portfolio template on your local machin
 
 #### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/your-portfolio-repo.git
-cd your-portfolio-repo
+git clone https://github.com/666v/portfolio.git
+cd portfolio
 ```
 
 ---

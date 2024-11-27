@@ -6,7 +6,7 @@
 
 A fully responsive portfolio template, designed specifically for modern professionals, developers, and creatives. This sleek and customizable template allows you to showcase your skills, projects, and achievements with complete professionalism.
 
-[**Click here to view the template**](https://portfolio-two-phi-37.vercel.app/projects)
+[**Click here to view the template**](https://portfolio-two-phi-37.vercel.app)
 
 ---
 
